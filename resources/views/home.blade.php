@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Домашняя страница</title>
+    @Vite(['resources/css/app.css', 'resources/js/app.js'])
     
 </head>
 <body>
     <header>
         <img src="/image/Zeronet_logo.png" alt="logo1">
         <nav>
-        <a href="/">Главная</a>
-        <a href="/array">Массивы</a>
+        <p><a href="/">Главная</a></p>
+        <p><a href="/array">Массивы</a></p>
         </nav>
 
     </header>
