@@ -9,7 +9,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-        @Vite(['resources/css/app.css', 'resources/js/app.js'])
+        
         
     </head>
     <body>
@@ -18,6 +18,7 @@
         <p>контент</p>
         <img src="/image/Дрындулет1.jpg" alt="">
         <a href="/second">на вторую страницу</a>
+        <a href="/home">На домашнюю страницу</a>
        </main>
        <footer>
         <p>&copy;Пашков Владислав, 2026</p>
